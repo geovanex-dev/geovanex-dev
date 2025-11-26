@@ -1,16 +1,72 @@
-## Hi there 👋
+### Hello! I'm Geovane🖐️  
+<p align="center">I love solving big challenges using technology. I really like and identify with technology and I'm currently studying Computer Science. During my journey, I've taken courses in programming, cybersecurity, networking, and cloud computing. I value teamwork and collaboration, as I believe that together we can achieve incredible results. I'm always looking for new challenges and opportunities to expand my knowledge and contribute to the world of technology!.</p>
 
-<!--
-**geovanex-dev/geovanex-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;  
 
-Here are some ideas to get you started:
+<p align="left">
+ <!-- Estatísticas de GitHub -->
+ <img src="https://github-readme-stats.vercel.app/api?username=geovanefern467&show_icons=true&theme=midnight-purple" width="400" height="200" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+ <!-- Estatísticas de Linguagens -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanefern467&layout=compact&theme=midnight-purple" width="400" height="200" />
+</p>
+
+## My Skills
+
+#### Main Stack:
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Secondary Stack:
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Networking](https://img.shields.io/badge/Redes%20de%20Computadores-4CAF50?style=for-the-badge&logo=networking&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![IA](https://img.shields.io/badge/Inteligência%20Artificial-000000?style=for-the-badge&logo=ai&logoColor=white)&nbsp;
+![Qualidade de Software](https://img.shields.io/badge/QA-FF4D4D?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+#### Studying in this moment:
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+
+#### Tools:
+<div>
+ <img src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+ <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
+ <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+ <img src="https://img.shields.io/badge/Scanner-007ACC?style=for-the-badge&logo=scanner&logoColor=white" />
+</div>
+
+<div>
+ <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+ <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+ <img src="https://img.shields.io/badge/Google_Colab-FC6D26?style=for-the-badge&logo=google-colab&logoColor=white" />
+<br>
+ <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+ <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" />
+ <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
+ <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black" />
+</div>
+
+&nbsp;&nbsp;
+
+## Contacts:
+<div>
+ <a href="mailto:contact.geovanefern467@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+
+ <a href="https://www.linkedin.com/in/geovane-de-arruda-fernandes-ribeiro-1595b02b1/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
