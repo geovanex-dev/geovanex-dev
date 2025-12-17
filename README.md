@@ -29,8 +29,9 @@ Sou motivado por colaborar com equipes engajadas, construir projetos que fazem d
     <a href="https://github.com/geovanex-dev/Cloud-Feedback" target="_blank">
       <img src="https://img.icons8.com/color/48/0000FF/trophy.png" width="48" style="vertical-align: middle;"/>
     </a>
-    <b>Cloud Feedback</b> – Sistema completo para coleta de feedbacks via web, utilizando AWS Lambda como backend serverless, Python para lógica de negócio, frontend em HTML/JS, testes automatizados, simulação local com Docker e integração com AWS (DynamoDB/SNS).
+    <b>Cloud Feedback</b> – Sistema completo **serverless** para coleta de feedbacks via web, utilizando AWS Lambda, S3, API Gateway, SNS e DynamoDB, com backend em Python, frontend em HTML/JS, testes automatizados e simulação local com Docker.
   </p>
+
 
   <p>
     <a href="https://github.com/geovanex-dev/Case-Itau-Tecnico" target="_blank">
