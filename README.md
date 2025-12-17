@@ -21,6 +21,44 @@ Sou motivado por colaborar com equipes engajadas, construir projetos que fazem d
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geovanex-dev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+## 🏆 Principais Projetos
+
+<div align="left">
+
+  <p>
+    <a href="https://github.com/geovanex-dev/Cloud-Feedback" target="_blank">
+      <img src="https://img.icons8.com/color/48/0000FF/trophy.png" width="48" style="vertical-align: middle;"/>
+    </a>
+    <b>Cloud Feedback</b> – Sistema completo para coleta de feedbacks via web, utilizando AWS Lambda como backend serverless, Python para lógica de negócio, frontend em HTML/JS, testes automatizados, simulação local com Docker e integração com AWS (DynamoDB/SNS).
+  </p>
+
+  <p>
+    <a href="https://github.com/geovanex-dev/Case-Itau-Tecnico" target="_blank">
+      <img src="https://img.icons8.com/color/48/800080/trophy.png" width="48" style="vertical-align: middle;"/>
+    </a>
+    <b>Case Itaú Técnico</b> – Sistema para gerenciar avaliações de colaboradores, desenvolvido em Java 22 com Spring Boot e Arquitetura Hexagonal, garantindo alta qualidade e testabilidade.
+  </p>
+
+  <p>
+    <a href="https://github.com/geovanex-dev/Jogo-de-Corrida-de-Carro" target="_blank">
+      <img src="https://img.icons8.com/color/48/FF0000/trophy.png" width="48" style="vertical-align: middle;"/>
+    </a>
+    <b>Jogo de Corrida de Carro</b> – Jogo em Java utilizando Programação Orientada a Objetos, criado para testar e aprimorar habilidades na linguagem.
+  </p>
+
+  <p>
+    <a href="https://github.com/geovanex-dev/Project-Servidor-Node" target="_blank">
+      <img src="https://img.icons8.com/color/48/008000/trophy.png" width="48" style="vertical-align: middle;"/>
+    </a>
+    <b>Project Servidor Node</b> – Aplicação de rede social simulada com Node.js e Express, separando front-end e back-end, gerenciando requisições em JSON e servindo como base para aprendizado back-end.
+  </p>
+
+</div>
+
+
+
+
+
 &nbsp;  
 
 
@@ -82,7 +120,17 @@ Sou motivado por colaborar com equipes engajadas, construir projetos que fazem d
 <br>
 
 ## Certificação
-<p>☁️ <a href="https://credly.com/badges/cb60b3e4-9a3c-44ef-8797-ef1bc3ea90d5/public_url">1x AWS Certified</a></p>
+
+<div align="left" style="display:flex; align-items:center; gap:10px;">
+  <a href="https://credly.com/badges/cb60b3e4-9a3c-44ef-8797-ef1bc3ea90d5/public_url" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/cloud.png" width="40" alt="AWS Certified Cloud Practitioner" />
+  </a>
+  <a href="https://credly.com/badges/cb60b3e4-9a3c-44ef-8797-ef1bc3ea90d5/public_url" target="_blank" style="text-decoration:none; color:#00bfbf; font-weight:bold; font-size:16px;">
+    AWS Certified Cloud Practitioner
+  </a>
+</div>
+
+
 
 
 <!-- Footer animado -->
