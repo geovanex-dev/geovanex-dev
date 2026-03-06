@@ -12,8 +12,6 @@ Na área de **qualidade de software**, atuei com **testes unitários, testes de 
 Sou motivado por colaborar com equipes engajadas, construir projetos que fazem diferença e aprender continuamente novas tecnologias e práticas. Meu objetivo é entregar soluções **inovadoras, escaláveis e de alta qualidade**, enquanto evoluo constantemente como profissional de tecnologia.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanex-dev&hide=contribs,prs)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geovanex-dev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
